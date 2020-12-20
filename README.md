@@ -1,7 +1,7 @@
 Citi Bike Analytics
 
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+![Citi-Bikes](https://github.com/temidolan/CitiBikeAnalysiswithTableau/blob/main/Tab%20Images/Screen%20Shot%202020-11-24%20at%2010.50.48%20PM.png)
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
